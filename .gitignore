@@ -1,0 +1,119 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# Distribution/packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pylint
+.pylint.d/
+
+# Pyre type checker
+.pyre/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+*.py[co]
+*.migrations/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+
+# Editor & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+data/

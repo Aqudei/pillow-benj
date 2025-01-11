@@ -1,0 +1,28 @@
+{
+    "width": 1080,
+    "height": 1920,
+    "Image_gap": 6,
+    "font1_path": "Bobby Rough Soft.ttf",
+    "font2_path": "virtual-regular.ttf",
+    "text1_size": 250,
+    "text2_size": 130,
+    "number_size": 200,
+    "color_text1": [
+        44,
+        47,
+        56
+    ],
+    "color_text2": [
+        254,
+        0,
+        156
+    ],
+    "color_number": [
+        254,
+        0,
+        156
+    ],
+    "stroke_width": 0,
+    "text_gap": 5,
+    "box_extra_y": 10
+}
